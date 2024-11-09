@@ -1,0 +1,2 @@
+Run in "sdk" folder to start clients' server: "python client.py"
+Run in "server" folder to start clients' server:  "ruby src/app.rb"
